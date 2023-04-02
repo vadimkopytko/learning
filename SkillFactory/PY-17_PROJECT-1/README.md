@@ -4,7 +4,7 @@
 [1. Описание проекта](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Описание-проекта)  
 [2. Краткая информация о данных](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Краткая-информация-о-данных)  
 [3. Этапы работы над проектом](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Этапы-работы-над-проектом)  
-[4. Результат](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Результат)  
+[4. Результаты](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Результаты)  
 [5. Использованные инструменты и библиотеки](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Использованные-инструменты-и-библиотеки) 
 [6. Дополнительные источники](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Дополнительные-источники) 
 
@@ -35,7 +35,18 @@
 **Цель:** очистить датасет от дубликатов, выбросов и пропусков.
 
 
-### Результат
+### Результаты
+**1. Базовый анализ структуры данных**  
+**Результаты:** 
+
+**2. Преобразование данных**  
+
+**3. Разведывательный анализ** 
+
+**4. Очистка данных**  
+
+
+
 В результате проекта исходный датасет был проанализирован на качество данных, преобразованы и добавлены новые графы с нужной информацией. Проведен разведывательный анаиз с помощью библиотек визуализации, в реузбльтате чего выявлены взаимосвязи уровня желаемой ЗП от ряда признаков.  
 Как итог проекта мы получали очищенный от дубликатов, выбросов и пропусков датасет с резюме соискателей, готовый для подгрузки в модель.
 
