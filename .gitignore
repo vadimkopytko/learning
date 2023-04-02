@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+dst-3.0_16_1_hh_database.csv
+Test.ipynb
+sku/
 .Python
 build/
 develop-eggs/
