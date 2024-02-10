@@ -1,0 +1,5 @@
+INFO: 2024-02-05 21:58:52,071: Data
+INFO: 2024-02-05 22:02:47,759: Data shape (110527, 14)
+INFO: 2024-02-05 22:06:11,554: Percentage of women: 0.65
+INFO: 2024-02-05 22:06:54,040: Percentage of men: 0.35
+ERROR: 2024-02-05 22:07:41,306: Data shape is incorrect!
