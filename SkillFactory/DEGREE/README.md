@@ -2,7 +2,7 @@
 
 ## Оглавление
 [1. Бизнес-задача, цель и требуемый результат;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Бизнес-задача)   
-[2. Основные задачи и этапы проекта;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Основные задачи и этапы проекта)  
+[2. Основные задачи и этапы проекта;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Основные-задачи-и-этапы-проекта)  
 [3. Результаты;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Результаты)  
 [4. Использованные инструменты и библиотеки;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Использованные-инструменты-и-библиотеки)   
 
