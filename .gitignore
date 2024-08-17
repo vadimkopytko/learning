@@ -10,6 +10,7 @@ __pycache__/
 dst-3.0_16_1_hh_database.csv
 hotels.csv
 hotels_test.csv
+new_retail_data.csv
 hotels_train.csv
 taxi_train.csv
 osrm_data_train.csv
