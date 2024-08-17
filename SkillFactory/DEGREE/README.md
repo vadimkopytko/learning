@@ -1,11 +1,10 @@
 # Проект: Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Описание проекта;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Описание-проекта)  
-[2. Краткая информация о данных;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Краткая-информация-о-данных)  
-[3. Этапы работы над проектом;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Этапы-работы-над-проектом)  
-[4. Результаты;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Результаты)  
-[5. Использованные инструменты и библиотеки;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Использованные-инструменты-и-библиотеки)   
+[1. Бизнес-задача, цель и требуемый результат;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Бизнес-задача)   
+[2. Основные задачи и этапы проекта;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Основные задачи и этапы проекта)  
+[3. Результаты;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Результаты)  
+[4. Использованные инструменты и библиотеки;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Использованные-инструменты-и-библиотеки)   
 
 
 ### Бизнес-задача:
