@@ -1,11 +1,11 @@
 # Проект: Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Описание проекта;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Описание-проекта)  
-[2. Краткая информация о данных;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Краткая-информация-о-данных)  
-[3. Этапы работы над проектом;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Этапы-работы-над-проектом)  
-[4. Результаты;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Результаты)  
-[5. Использованные инструменты и библиотеки;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/PY-17_PROJECT-1/README.md#Использованные-инструменты-и-библиотеки)   
+[1. Описание проекта;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Описание-проекта)  
+[2. Краткая информация о данных;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Краткая-информация-о-данных)  
+[3. Этапы работы над проектом;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Этапы-работы-над-проектом)  
+[4. Результаты;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Результаты)  
+[5. Использованные инструменты и библиотеки;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Использованные-инструменты-и-библиотеки)   
 
 
 ### Бизнес-задача:
