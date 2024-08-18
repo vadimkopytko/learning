@@ -1,4 +1,4 @@
-# Проект: Анализ вакансий из HeadHunter
+# Проект: RFM-сегментация клиентов
 
 ## Оглавление
 [1. Бизнес-задача, цель и требуемый результат;](https://github.com/vadimkopytko/learning/blob/main/SkillFactory/DEGREE/README.md#Бизнес-задача)   
